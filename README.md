@@ -6,7 +6,7 @@ este es un portoflio hecho enteramente con django
 
 ```
 git clone https://github.com/FaztWeb/django-portfolio-simple.git
-cd Entrega1-gomez
+cd entrega-final
 pip install -r requirements.txt
 python manage.py runserver
 ```
